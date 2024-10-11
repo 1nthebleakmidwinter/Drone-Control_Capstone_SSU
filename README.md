@@ -27,5 +27,6 @@ Fire Detection : AlexNet, InceptionVX
 ![image](https://github.com/user-attachments/assets/40a73392-451b-4c45-a6e3-82dd4b4ccb4f)
 
 # 기술 스택
-![image](https://github.com/user-attachments/assets/e76c7128-9b4c-4051-a65d-f0693bdc212a)
+![image](https://github.com/user-attachments/assets/570e3039-544e-4a7b-88e4-e88d00c2f9f2)
+
 
