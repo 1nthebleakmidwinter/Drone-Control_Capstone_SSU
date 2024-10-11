@@ -25,3 +25,7 @@ dlib는 인공신경망 model인 ResNet-34에서 주로 영감을 얻어 신경�
 Fire Detection : AlexNet, InceptionVX
 
 ![image](https://github.com/user-attachments/assets/40a73392-451b-4c45-a6e3-82dd4b4ccb4f)
+
+# 기술 스택
+![image](https://github.com/user-attachments/assets/e76c7128-9b4c-4051-a65d-f0693bdc212a)
+
